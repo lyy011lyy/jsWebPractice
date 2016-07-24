@@ -1,0 +1,2 @@
+# jsWebPractice
+To learn JavaScript
